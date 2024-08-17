@@ -1,0 +1,49 @@
+{
+    "wallets":[
+        
+            {
+                "id": 1,
+                "title": "MetaMask",
+                "src": "./images/MetaMask_Fox 1.png"
+            },
+            {
+                "id": 2,
+                "title": "Trust Wallet",
+                "src": "./images/Vector-sheild.png"
+            },
+            {
+                "id": 3,
+                "title": "Web3 Wallet",
+                "src": "./images/1200x630wa-removebg-preview 1.png"
+            },
+            {
+                "id": 4,
+                "title": "Exodus",
+                "src": "./images/wallet-logo 1.png"
+            },
+            
+            
+            
+            {
+                "id": 5,
+                "title": "test1",
+                "src": "./images/MetaMask_Fox 1.png"
+            },
+            {
+                "id": 6,
+                "title": "test2",
+                "src": "./images/Vector-sheild.png"
+            },
+            {
+                "id": 7,
+                "title": "test3",
+                "src": "./images/1200x630wa-removebg-preview 1.png"
+            },
+            {
+                "id": 8,
+                "title": "test4",
+                "src": "./images/wallet-logo 1.png"
+            }
+        
+    ]
+}
